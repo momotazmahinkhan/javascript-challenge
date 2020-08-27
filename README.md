@@ -1,3 +1,3 @@
 # javascript-challenge
 
-This challenge basically combines teh skills 
+https://momotazmahinkhan.github.io/javascript-challenge/index.html
